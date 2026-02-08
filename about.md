@@ -39,7 +39,9 @@ image: assets/images/pic07.jpg
 <!-- Two -->
 <section id="two" class="spotlights">
   <section>
-    <img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+    <span class="image">
+      <img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+    </span>
     <div class="content">
       <div class="inner">
         <header class="major">
@@ -53,7 +55,9 @@ image: assets/images/pic07.jpg
     </div>
   </section>
   <section>
-    <img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+    <span class="image">
+      <img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+    </span>
     <div class="content">
       <div class="inner">
         <header class="major">
@@ -67,7 +71,9 @@ image: assets/images/pic07.jpg
     </div>
   </section>
   <section>
-    <img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+    <span class="image">
+      <img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+    </span>
     <div class="content">
       <div class="inner">
         <header class="major">
