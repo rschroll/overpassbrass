@@ -1,10 +1,29 @@
 ---
 title: Landing
-layout: landing
+layout: base
+header-layout: landing
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
+
+<section id="banner" class="style2">
+    <div class="inner">
+        <span class="image">
+            <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
+        </span>
+        <header class="major">
+
+            <h1>{{ page.title }}</h1>
+
+        </header>
+        <div class="content">
+
+            {{ page.description }}
+
+        </div>
+    </div>
+</section>
 
 <!-- Main -->
 <div id="main">
