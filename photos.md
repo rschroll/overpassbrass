@@ -7,10 +7,9 @@ tile-order: 2
 image: assets/images/pic11.jpg
 ---
 
-{% assign photos = site.static_files | where_exp: "item", "item.extname == '.jpg'" | sort: "modified_time" | reverse %}
-{% assign photoszzzz = site.static_files
+{% assign photos = site.static_files
     | where_exp: "item", "item.path contains 'assets/photos'"
-    | sort: "basename"
+    | sort: "path"
     | reverse %}
 
 <style>
@@ -36,10 +35,13 @@ https://cdn.jsdelivr.net/npm/lightbox2@2.11.5/dist/css/lightbox.min.css
 <div class="box alt">
   <div class="row 50% uniform">
     {% for file in photos %}
+      {% capture credits %}
+        {% include_relative {{ file.path | replace: file.name, "_credit.md" }} %}
+      {% endcapture %}
       <div class="{% cycle '4u', '5u', '3u', '3u', '5u', '4u' %}">
         <span class="image fit">
-          <a href="{% link {{ file.path }} %}" data-lightbox="photos">
-            <img src="{% link {{ file.path }} %}" alt="Photograph" title="{{file.path}}" />
+          <a href="{% link {{ file.path }} %}" data-lightbox="photos" data-title="{{ credits }}">
+            <img src="{% link {{ file.path }} %}" alt="Photograph" title="{{ credits }}" />
           </a>
         </span>
       </div>

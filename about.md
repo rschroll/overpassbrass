@@ -5,7 +5,7 @@ header-layout: landing
 description: Get to know your local musicians.
 nav-order: 1
 tile-order: 1
-image: assets/photos/IMG_2481.jpg
+image: assets/images/about-banner.jpg
 ---
 
 <section id="banner" class="style2">
