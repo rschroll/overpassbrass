@@ -6,6 +6,9 @@ description: New Orleans-inspired east-bay brass band
 baseurl: "/overpassbrass" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 permalink: /:slug/
+collections:
+  posts:
+    permalink: /:categories/:year/:month/:day/:title/
 
 author:
 street_address:
@@ -42,3 +45,4 @@ sass:
 exclude:
 - LICENSE.md
 - README.md
+- samples/
