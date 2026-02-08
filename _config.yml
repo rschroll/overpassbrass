@@ -5,6 +5,8 @@ email: booking@overpassbrass.com
 description: New Orleans-inspired east-bay brass band
 baseurl: "/overpassbrass" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
+permalink: /:slug/
+
 author:
 street_address:
 city: East Bay
@@ -28,7 +30,7 @@ socials:
   Instagram:
   LinkedIn:
   Twitter:
-  Facebook:
+  Facebook: https://www.facebook.com/UnderpassBrass
   Slack:
 
 # build settings
@@ -39,4 +41,4 @@ sass:
 
 exclude:
 - LICENSE.md
-- README.md 
+- README.md
