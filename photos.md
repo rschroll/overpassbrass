@@ -4,7 +4,7 @@ title: Photos
 description: Photos of the band
 nav-order: 2
 tile-order: 2
-image: assets/images/pic11.jpg
+image: assets/photos/20250824-neighborhood-party/DSC8725.jpeg
 ---
 
 {% assign photos = site.static_files
