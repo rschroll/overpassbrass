@@ -4,9 +4,9 @@ layout: base
 header-layout: home
 landing-title: Overpass Brass
 description: null
+nav-order: 0
 image: null
 author: null
-show_tile: false
 ---
 
 <!-- Banner -->
