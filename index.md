@@ -36,12 +36,9 @@ author: null
       <div class="row">
         <div class="6u 12u$(small)">
           <header class="major">
-              <h2>Massa libero</h2>
+              <h2>Upcoming Gigs</h2>
           </header>
-          <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-          <ul class="actions">
-              <li><a href="landing.html" class="button next">Get Started</a></li>
-          </ul>
+          <p>Overpass Brass performs sporadically across the bay area. Watch our <a href="https://www.facebook.com/UnderpassBrass">Facebook page</a> for announcements of upcoming shows.</p>
         </div>
         <div class="6u 12u$(small) align-right">
           <div class="fb-page"

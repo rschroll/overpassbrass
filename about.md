@@ -32,7 +32,8 @@ image: assets/images/about-banner.jpg
 <!-- One -->
 <section id="one">
   <div class="inner">
-    <p>The band is this sort of thing....</p>
+    <p>Bringing the heart of New Orleans to the streets of the Bay Area, this high-energy seven-piece brass band delivers festive Second Line spirit, bold original world music arrangements, and irresistible, foot-stomping dance grooves. Unamplified yet unmistakably loud, the band commands any street corner, stage, or festival route with honking horns, driving rhythms, and a larger-than-life sound that pulls crowds in and keeps them moving. From joyous parade anthems to deep-groove global inspirations, every performance is a celebration.</p>
+    <p>With bizarre bass lines, punchy brass harmonies, and a flair all their own, they transform block parties, street fairs and festivals into full-blown brass-powered dance explosions. Equal parts tradition and invention, their sound honors the vibrant lineage of New Orleans brass while carving out a unique, unmistakable Bay Area experience. When they show up, it’s not just a gig&mdash;it’s a rolling street party.</p>
   </div>
 </section>
 
