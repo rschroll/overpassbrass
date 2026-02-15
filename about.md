@@ -125,7 +125,7 @@ image: assets/images/about-banner.jpg
           <h3>Robert Schroll</h3>
           <p>Trombone, Tuba</p>
         </header>
-        <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+        <p>Since starting out on the trumpet in third grade, Robert has sunk to lower and lower depths in the brass section.  He's played in brass bands in Chicago, Northampton, MA, and Baltimore, but these days he holds down the low end for Overpass Brass.  He currently serves as president of the <a href="https://alamedacommunityband.weebly.com/">Alameda Community Band</a> and can be found during Oktoberfest season with <a href="https://www.polkageistwest.com/">Polkageist West</a>.</p>
       </div>
     </div>
   </section>
