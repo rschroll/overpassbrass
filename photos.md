@@ -41,7 +41,7 @@ https://cdn.jsdelivr.net/npm/lightbox2@2.11.5/dist/css/lightbox.min.css
       <div class="{% cycle '4u', '5u', '3u', '3u', '5u', '4u' %}">
         <span class="image fit">
           <a href="{% link {{ file.path }} %}" data-lightbox="photos" data-title="{{ credits }}">
-            <img src="{% link {{ file.path }} %}" alt="Photograph" title="{{ credits }}" />
+            <img src="{{ site.baseurl }}{% thumbnail_img file.path 480 %}" alt="Photograph" title="{{ credits }}" />
           </a>
         </span>
       </div>

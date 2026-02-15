@@ -46,3 +46,6 @@ exclude:
 - LICENSE.md
 - README.md
 - samples/
+
+plugins:
+- jekyll-thumbnail-img

@@ -7,5 +7,5 @@ gem 'jekyll-watch'
 gem 'em-websocket'
 
 group :jekyll_plugins do
-  #gem 'jekyll-timeago', '~> 0.13.1'
+  gem 'jekyll-thumbnail-img'
 end
