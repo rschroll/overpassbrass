@@ -3,7 +3,7 @@ layout: page
 title: Contact
 description: Get in touch
 nav-order: 5
-image: assets/images/pic11.jpg
+image: null
 ---
 
 ## For booking inquiries, please contact [booking@overpassbrass.com](mailto:booking@overpassbrass.com).
