@@ -41,12 +41,13 @@ image: assets/images/about-banner.jpg
 <section id="two" class="spotlights">
   <section>
     <span class="image">
-      <img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+      <img src="{% link assets/images/kathleen.jpg %}" alt="" data-position="center center" />
     </span>
     <div class="content">
       <div class="inner">
         <header class="major">
           <h3>Kathleen Attfield</h3>
+          <p>Trumpet</p>
         </header>
         <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
         <ul class="actions">
@@ -57,12 +58,13 @@ image: assets/images/about-banner.jpg
   </section>
   <section>
     <span class="image">
-      <img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+      <img src="{% link assets/images/karen.jpg %}" alt="" data-position="top center" />
     </span>
     <div class="content">
       <div class="inner">
         <header class="major">
           <h3>Karen MacLeod</h3>
+          <p>Alto Sax</p>
         </header>
         <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
         <ul class="actions">
@@ -73,12 +75,69 @@ image: assets/images/about-banner.jpg
   </section>
   <section>
     <span class="image">
-      <img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+      <img src="{% link assets/images/josh.jpg %}" alt="" data-position="25% 25%" />
+    </span>
+    <div class="content">
+      <div class="inner">
+        <header class="major">
+          <h3>Josh Sperry</h3>
+          <p>Tensor Sax, Soprano Sax</p>
+        </header>
+        <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+      </div>
+    </div>
+  </section>
+  <section>
+    <span class="image">
+      <img src="{% link assets/images/johny.jpg %}" alt="" data-position="25% 25%" />
     </span>
     <div class="content">
       <div class="inner">
         <header class="major">
           <h3>Johny Blood</h3>
+          <p>Bari Sax, Helicon</p>
+        </header>
+        <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+      </div>
+    </div>
+  </section>
+  <section>
+    <span class="image">
+      <img src="{% link assets/images/greg.jpg %}" alt="" data-position="25% 25%" />
+    </span>
+    <div class="content">
+      <div class="inner">
+        <header class="major">
+          <h3>Greg Stephens</h3>
+          <p>Trombone</p>
+        </header>
+        <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+      </div>
+    </div>
+  </section>
+  <section>
+    <span class="image">
+      <img src="{% link assets/images/robert.jpg %}" alt="" data-position="25% 25%" />
+    </span>
+    <div class="content">
+      <div class="inner">
+        <header class="major">
+          <h3>Robert Schroll</h3>
+          <p>Trombone, Tuba</p>
+        </header>
+        <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+      </div>
+    </div>
+  </section>
+  <section>
+    <span class="image">
+      <img src="{% link assets/images/barry.jpg %}" alt="" data-position="25% 25%" />
+    </span>
+    <div class="content">
+      <div class="inner">
+        <header class="major">
+          <h3>Barry Levitan</h3>
+          <p>Drums</p>
         </header>
         <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
       </div>
