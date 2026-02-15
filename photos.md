@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Photos
-description: Photos of the band
+description: null
 nav-order: 2
 tile-order: 2
 image: assets/photos/20250824-neighborhood-party/DSC8725.jpeg

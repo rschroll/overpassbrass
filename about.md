@@ -2,7 +2,7 @@
 title: About
 layout: base
 header-layout: landing
-description: Get to know your local musicians.
+description: null
 nav-order: 1
 tile-order: 1
 image: assets/images/about-banner.jpg

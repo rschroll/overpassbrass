@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Press Kit
-description: It's the band!
-nav-order: 4
+description: null
+nav-order: null
 image: assets/images/pic11.jpg
 ---
 

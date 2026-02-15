@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Videos
-description: Videos of the band
+description: null
 nav-order: 3
 tile-order: 3
 image: assets/photos/20240803-selkie-fest/DSC0043.jpg
