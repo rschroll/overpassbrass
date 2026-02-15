@@ -45,6 +45,7 @@ sass:
 exclude:
 - LICENSE.md
 - README.md
+- Dockerfile
 - samples/
 
 plugins:
