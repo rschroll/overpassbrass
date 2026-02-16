@@ -3,7 +3,7 @@ title: Overpass
 subtitle: Brass
 email: booking@overpassbrass.com
 description: New Orleans-inspired east-bay brass band
-baseurl: "/overpassbrass" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 permalink: /:slug/
 collections:
